@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-24T01:18:36+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/ProBook/Downloads/Интервью. Наталья Фомичёва. Как учат в физматшколе. 23.03.2021, часть 2.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Интервью. Наталья Фомичёва. Как учат в физматшколе. 23.03.2021, часть 2.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:bcdfdbd1-f9ea-441d-822d-9e04e8258533</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">58</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="10040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="20920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="20920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="23558"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="23558"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="28996"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="28996"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="31492"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="31492"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="34199"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="34199"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="40945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="40967"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="42776"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="42776"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="43539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="43539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="51330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="51393"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="51393"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="51398"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="51398"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="52213"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="56960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="56960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="63922"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="63922"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="67330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="67330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="69979"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="69979"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="79863"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="79863"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="89283"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="89283"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="99655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="99655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="103952"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="103952"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="115029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="115029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="121587"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="122344"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="122344"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="122344"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="123377"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="123377"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="132468"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="132468"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="136653"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="136653"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="143169"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="143169"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="146898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="146898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="154327"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="schneiderdies" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@naf1969f" TIER_ID="text@naf1969f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>здравствуйте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>мне? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>#смеётся# ну со средним звеном точно бы выдержала а со старшим уже наверное нет //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>я вообще знаете очень люблю наблюдать / аа когда мы готовим ребят уже на / финишные олимпиады //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>допустим / на итоговый этап всероссийской олимпиады школьников //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>ну на Россию так скажем да / по математике //
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>вот если это / пока регион или там / муниципальный этап то там чётко видно вот педагог / вот ребята / вот они все вместе мыслят и так далее //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>но когда ты видишь что каждый сидит в своём углу и педагог / и ребёнок / и где-то кто-то прилёг и что-то вот / это значит рождается идея как решить эту задачу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>потом все сбегаются / что-то там обсуждают и непонятно / кто из них педагог / кто из них наставник / кто из них г...г...готовящийся побеждать / брать россию //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>то есть ну вот / вот вкусность-то как раз процесса в совместном творчестве // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>поэтому / ну / наверное на это я / к сожалению не так буду способна хотя / ну егэ я каждое лето решаю чтобы / хотя бы в этом не отстать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>да моя семья смеётся всегда что все летом / реш... ээ / на пляже а я вот с тестами егэ //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>сдаю егэ //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>#смеётся# ну / это / за...задача действительно наиважнейшая и не только нашей школы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>любой педагог сегодня об этом думает / и думает серьёзно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>я считаю что / самое главное научить ребёнка учиться / и научить ребёнка творить //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="schneiderdies" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@ash1991f" TIER_ID="text@ash1991f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>физико-математическая школа Тюменской области вошла в число лучших школ страны по конкурентоспособности выпускников в сфере технические естественнонаучные направления и точные науки //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>таковы данные российского рейтингового агенства //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>так что наша школа абсолютно точно /  кузница кадров для будущей цифровой экономики</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Как удалось добиться таких результатов?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>об этом и не только поговорим в программе интервью</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>я Анастасия Щербакова / мой гость Наталья Александровна Фомичёва / директор физико-математической школы тюменской области</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>здравствуйте Наталья Александровна</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>а вот интересно если бы вам сейчас предложили сразиться на какой-нибудь математической олимпиаде с вашими учениками / выдержали бы конкуренцию</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>сдаю егэ //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>кстати по прогнозам учёных / уже в ближайшем будущем самыми востребованными профессиями станут те / которых сейчас / даже не существует //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>вот как сегодня готовить школьников к специальностям которым даже названия не придуманы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="schneiderdies" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translate" PARENT_REF="text@naf1969f"
+        PARTICIPANT="@naf1969f" TIER_ID="transl@naf1969">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Hello.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>me?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>#laughs# Well, with middle schoolers I would for sure but with seniors I think I wouldn't.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>You know, I love to watch how we prepare the students for the final olympiads.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>For example, for the final stage of the All-Russian olympiad for schoolchildren.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Well, for the Russian stage on mathematics, so to say.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>If it's a regional stage or municipal one, it's clear that here is the teacher, here are the students, they think together and so on.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE> but when you see that everyone sits at their own corner the teacher the student some of them lie somewhere and something like this that means that the idea of how to solve this problem is about to be born</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Then everyone comes together. They discuss something, and it's not clear who's the teacher, who's the mentor, who's the one that is going to win. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Well, the beauty of the process is in the collaborative creation</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>that's why... Well, perhaps, I won't be able to do that that way, although, well, I solve ege every summer so as to not fall behind with it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE> Yeah, well, my family always laughs that everyone is on the beach and I'm with ege tests.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>I take ege.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>#laughs# Well, this problem is in fact of the utmost importance and not only for our school.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Any teacher nowadays thinks about it and takes it seriously.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>I believe that the most important thing is to teach a student how to learn and how to create.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="schneiderdies" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translate" PARENT_REF="text@ash1991f"
+        PARTICIPANT="@ash1991f" TIER_ID="transl@ash1991f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Physics and Mathematics School of Tyumen region has been included in the list of the best schools in the country in terms of graduates' competitiveness in the field of technical, natural and exact sciences. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>These are the data of the Russian rating agency,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>so our school is definitely a forge of personnel for the future digital economy.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>How did you manage to achieve such results?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>We are going to talk about this and more in the interview.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>I am Anastasia Scherbakova. My guest here is Natalya Alexandrovna Fomicheva, the principal of the Physics and Mathematics School of Tyumen region.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Hello, Natalya Alexandrovna.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>It's interesting if you were offered to compete with your students at some mathematical olympiad, would you withstand the competition?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Yeah</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>I take ege.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>By the way, according to the scientists' predictions, in the nearest future the most in-demand jobs will be the ones that don't even exist now.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>How to prepare the students for the professions that don't even have names?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translate" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_1a25ea11-9666-4cdf-885b-b9f1458b684a">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3f9e3282-3f47-4f6a-83b9-5b31ada5e331">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2c171edc-c253-4b84-9396-631b533f5b45">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_49be8560-61ce-439a-b41c-bff1f5f4e45f">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_326141dc-a4ef-4888-836b-3ad680063827">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5673f0b1-3f69-46cf-82d8-b5c878af4985">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_136d76c7-1629-4269-9b5e-1377fab620e1">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e0b92354-7a1e-4c0a-b073-a5771ff382d6">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cb332b91-87fc-4db9-9cff-e597aec1a6f7">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8b14541a-092a-4a30-87c1-5301a8669114">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_37576737-d473-4bf3-8b8c-26017880059d">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_19ea17f2-0575-4f97-9911-aad435392798">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_00bd589e-8f00-4e35-a799-e6d180d47434">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f67fc44d-23c7-4b74-b80f-23623f6c91e4">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f730f1ab-9fd9-4eb0-b0f1-1091e67ab429">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c8a947de-adad-455c-b360-7d8053a47919">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8e301271-ee99-4935-bcdf-408cf3cb6808">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>

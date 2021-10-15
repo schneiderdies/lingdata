@@ -1,0 +1,47 @@
+1	  рассказывать ? //  ну где … 	ну вот вообще / когда 	livecorpus2021_lemma_pos.1.txt
+2	  Россия //  то быть 	ну вот / вот вкусность 	livecorpus2021_lemma_pos.1.txt
+3	  / но самый главный …. //  	ну вот древний рус 	livecorpus2021_lemma_pos.1.txt
+4	  собака …. //  ну да //  	ну вот … / житься - 	livecorpus2021_lemma_pos.1.txt
+5	  препона / преграда руководство 	ну вот / за / себя 	livecorpus2021_lemma_pos.1.txt
+6	  мы тут горница / 	ну вот здесь мы 	livecorpus2021_lemma_pos.1.txt
+7	  я быть предположение //  	ну вот / и второй 	livecorpus2021_lemma_pos.1.txt
+8	  ребенок зуб все //  	ну вот //  и она 	livecorpus2021_lemma_pos.1.txt
+9	  / чтоб бабка выходить //  	ну вот / и друг 	livecorpus2021_lemma_pos.1.txt
+10	  //  в апрель месяц //  	ну вот //  мамка вызвать / 	livecorpus2021_lemma_pos.1.txt
+11	  //  не знать почему //  	ну вот //  мм //  ээ //  	livecorpus2021_lemma_pos.1.txt
+12	  э вселенная м //  	ну вот / мой мир 	livecorpus2021_lemma_pos.1.txt
+13	  никто ? //  а сын ? //  	ну вот мы значить //  	livecorpus2021_lemma_pos.1.txt
+14	  то ? //  а сын ? //  	ну вот мы значить //  	livecorpus2021_lemma_pos.1.txt
+15	  ? //  из … из толстовский ? //  	ну вот мы она 	livecorpus2021_lemma_pos.1.txt
+16	  за так давать //  	ну вот / на смола 	livecorpus2021_lemma_pos.1.txt
+17	  … да … я говорить 	ну вот надо что-то 	livecorpus2021_lemma_pos.1.txt
+18	  год от я //  	ну вот / #нрзб# //  на 	livecorpus2021_lemma_pos.1.txt
+19	  весь девчата быть //  	ну вот //  ну а 	livecorpus2021_lemma_pos.1.txt
+20	  мочь ? //  то быть 	ну / вот / ну не 	livecorpus2021_lemma_pos.1.txt
+21	  ев из СИЗО //  	ну вот он сразу 	livecorpus2021_lemma_pos.1.txt
+22	  все равный юлить // 	ну вот он здесь 	livecorpus2021_lemma_pos.1.txt
+23	  ловкий с пальчик //  	ну вот / они всеядный //  	livecorpus2021_lemma_pos.1.txt
+24	  да ни нет .. //  	ну вот / после то // 	livecorpus2021_lemma_pos.1.txt
+25	  она ходить свой 	ну вот потерять / я 	livecorpus2021_lemma_pos.1.txt
+26	  же прям мой //  	ну вот серьезно //  с 	livecorpus2021_lemma_pos.1.txt
+27	  интеллект не надо //  	ну вот / так что //  	livecorpus2021_lemma_pos.1.txt
+28	  объяснить //  я объяснить //  	ну вот такой избить 	livecorpus2021_lemma_pos.1.txt
+29	  просто они терять // 	ну вот //  то быть 	livecorpus2021_lemma_pos.1.txt
+30	  что это пруд //  	ну вот три колхоз 	livecorpus2021_lemma_pos.1.txt
+31	  восторг / да //  аа //  	ну вот ты говорить 	livecorpus2021_lemma_pos.1.txt
+32	  хово… / кошачий морда //  	ну вот ты / Леша 	livecorpus2021_lemma_pos.1.txt
+33	  с руководитель ну / 	ну вот человек просто 	livecorpus2021_lemma_pos.1.txt
+34	  себя рассказать //  мхм //  	ну вот что ? // / что 	livecorpus2021_lemma_pos.1.txt
+35	  / ты и мой ! //  	ну вот что баба //  	livecorpus2021_lemma_pos.1.txt
+36	  / и очень часто / 	ну вот это такой 	livecorpus2021_lemma_pos.1.txt
+37	  он и согласиться //  	ну вот ээ … да … 	livecorpus2021_lemma_pos.1.txt
+38	  / за / себя оставить / 	ну вот я на … 	livecorpus2021_lemma_pos.1.txt
+39	  с очень … / предположить 	ну вот я несколько 	livecorpus2021_lemma_pos.1.txt
+40	  //  аа / там быть 	вот ну вот там 	livecorpus2021_lemma_pos.1.txt
+41	  существо на Земля / 	вот ну говорить там 	livecorpus2021_lemma_pos.1.txt
+42	  на второй чемпионат //  	вот / ну / единственный / конечно / 	livecorpus2021_lemma_pos.1.txt
+43	  вакцинироваться нужный //  я 	вот / ну если у 	livecorpus2021_lemma_pos.1.txt
+44	  как бы да //  	вот //  ну / не знать //  	livecorpus2021_lemma_pos.1.txt
+45	  тоже хотеться //  просто / 	вот / ну / не знать //  	livecorpus2021_lemma_pos.1.txt
+46	  поймать вот этот 	вот / ну / так сказать / 	livecorpus2021_lemma_pos.1.txt
+47	  о проблема //  ээ 	вот / ну / ээ они 	livecorpus2021_lemma_pos.1.txt
